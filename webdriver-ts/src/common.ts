@@ -102,5 +102,6 @@ export let frameworks = [
     f("vanillajs-keyed", true),
     f("vidom-v0.9.8-keyed", true),
     f("vue-v2.4.4-keyed", true),
+    f("vue-v2.4.4-inline-event-handler-keyed", true),
     f("vue-v2.4.4-non-keyed", false),
 ]
